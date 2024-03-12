@@ -2,8 +2,8 @@
 
 Cara Menjalankan
 
-git clone https://github.com/syahrullrmdhn/simple-to-do-list/
+git clone https://github.com/syahrullrmdhn/simple-to-do-list/ <br>
 cd simple-to-do-list
 
-npm i
+npm i <br>
 npm run dev
